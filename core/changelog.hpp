@@ -1,0 +1,47 @@
+/*
+-added aspect ratio changer
+-added damage indicator
+-added force scope
+-chams is not visible through smoke anyome
+-added left knife
+-added new hitsounds
+-edited gui look alike
+-edited esp look alike
+-added fov circle
+-revalued aimbot
+-reworked bomb timer stuff
+-added offscreen esp
+-added grenade prediction
+-added standalone rcs
+-reworked legit bunnyhop
+-added behind smoke check
+-added dead esp
+-added esp on key
+-added smart weapon switch
+-added vulnerability check option
+-added rank reveal
+-added visible only esp
+-added keystrokes
+-added render velocity
+-added new chams materials
+-added weapon/sleeve/hand chams
+-added wireframe chams
+-added epilepsy chams
+-added freecam
+-added chatspam
+-added walkbot
+-added bomb being defused log
+-added wall color changer
+-added better check to smart weapon change
+-added triggerbot
+-fixed triggerbot crash
+-added infinite duck
+-added recoil to triggerbot
+-added namechanger(s)
+-added better grenade prediction
+-reworked standalone rcs
+-added fakelag
+-added anti-aim system
+-added rage tab
+-added fakewalk
+*/

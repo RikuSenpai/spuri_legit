@@ -1,0 +1,1 @@
+Credits to: https://github.com/designer1337/aristois-legit for the project + for the other authors.
